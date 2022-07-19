@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+title: Stories of an accidental morse code key collector
+url: https://grahamwhaley.github.io/accidental-key-collector
+baseurl: /accidental-key-collector
+future: true
+paginate: 5
