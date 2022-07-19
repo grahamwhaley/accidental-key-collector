@@ -28,3 +28,14 @@ the character set and listening (yes, yes, there is always debate about whether 
 early or not - I chose not).
 
 And so the hunt for a key began...
+
+# Posts
+
+<ul>
+{% for post in site.posts %}
+    <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {{ post.date | date:"%B %d, %Y" }}
+    {{ post.content }}
+{% endfor %}
+</ul>
+
