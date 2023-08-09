@@ -27,7 +27,7 @@ has an 'LT', so notionally this is a Russian made key.
 
 Mine does not have the base filter unit. It is also possibly slightly unusual in that the main
 armature is painted black. I'm not sure I've seen another one with a painted armature in any internet
-photos. The pain looks pretty 'original' to me.
+photos. The paint looks pretty 'original' to me.
 
 There is a touch more info on the Ukrainian keys on this [morsex page](https://www.morsex.com/ru/).
 Those keys do look a little different to mine - the top lid has a diffrent embossing, and there look
